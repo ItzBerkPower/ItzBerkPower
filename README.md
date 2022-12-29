@@ -3,7 +3,7 @@
 - 🔭 I’m working on expanding my open source work and side projects
 - 🌱 I’m currently diving deeper into Tkinter, and Pygame
 - 💬 Ask me about projects, collaboration, or even help (Maybe) 🙂
-- 📫 How to reach me | d:[@chief#7902]([https://discord.com/channels/@me])
+- 📫 How to reach me | d:[@chief#7902](https://discord.com/channels/@me)
 - ⚡ Fun fact: I enjoy Table Tennis 🏓
 
 
