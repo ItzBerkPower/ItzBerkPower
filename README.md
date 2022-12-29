@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m working on expanding my open source work and side projects
-- 🌱 I’m currently diving deeper into Tkinter, and Pygame
+- 🌱 I’m currently diving deeper into Tkinter, and Pygame (Python Modules)
 - 💬 Ask me about projects, collaboration, or even help (Maybe) 🙂
-- 📫 How to reach me | d:[@chief#7902](https://discord.com/channels/@me)
+- ❄️ Most of my projects are just to help me learn, so they mostly aren't completed 
+- 📫 How to reach me | <a href="https://emoji.gg/emoji/1433-discord"><img src="https://cdn3.emoji.gg/emojis/1433-discord.png" width="15px" height="15px" alt="Discord"></a> :[@chief#7902](https://discord.com/channels/@me)
 - ⚡ Fun fact: I enjoy Table Tennis 🏓
 
 
