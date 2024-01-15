@@ -21,5 +21,5 @@
 
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&logoColor=239120" alt="C# logo" title="C#" height="25" />&nbsp;
-
+<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=3776AD" alt="C logo" title="C" height="25" />&nbsp;
 
